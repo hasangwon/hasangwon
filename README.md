@@ -1,6 +1,6 @@
 <div align="center">
   
- <a href="#"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasangwon&layout=compact"/></a>
+ <a href="#"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasangwon&layout=compact"/></a>
  
  ###  🇰🇷 HA SANG WON 🙆🏻
  ##### FE Developer with
